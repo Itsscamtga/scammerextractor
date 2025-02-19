@@ -1,0 +1,8 @@
+{
+  "name": "Education Hub Bot",
+  "description": "Telegram Bot using Pyrogram, deployed on Heroku via Docker.",
+  "repository": "https://github.com/Itsscamtga/extractor",
+  "stack": "container",
+  "addons": [],
+  "buildpacks": []
+}
